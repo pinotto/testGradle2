@@ -2,4 +2,4 @@
 
 
 // ritorna stringa da stampare
-int getInt();
+char* getString();

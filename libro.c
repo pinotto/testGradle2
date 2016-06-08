@@ -1,7 +1,6 @@
 #include "libro.h"
+//using namespace std;
 
-using namespace std;
-
-int getInt(){
-   return 123456;
+char* getString(){
+   return "123456";
 }
